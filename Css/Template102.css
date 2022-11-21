@@ -318,7 +318,7 @@ header .form i {
   padding: 15px 0;
   font-size: 20px;
 }
-@media (max-width: 350px) {
+@media (max-width: 400px) {
   .Design .text ul li {
     font-size: 16px;
   }
@@ -395,7 +395,7 @@ header .form i {
   font-size: 18px;
   margin-bottom: 10px;
 }
-@media (max-width: 350px) {
+@media (max-width: 400px) {
   .Portfolio .imgs-container .box .caption h4 {
     font-size: 16px;
   }
